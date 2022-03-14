@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\NorthwndLightWpf\\NorthwndLightWpf.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\CodeFirstDB\\CodeFirstDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\CodeFirstDB\\CodeFirstDB.csproj",
+        "projectName": "CodeFirstDB",
+        "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\CodeFirstDB\\CodeFirstDB.csproj",
+        "packagesPath": "C:\\Users\\timst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\CodeFirstDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\NorthwndLightWpf\\NorthwndLightWpf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\NorthwndLightWpf\\NorthwndLightWpf.csproj",
+        "projectName": "NorthwndLightWpf",
+        "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\NorthwndLightWpf\\NorthwndLightWpf.csproj",
+        "packagesPath": "C:\\Users\\timst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\NorthwndLightWpf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\CodeFirstDB\\CodeFirstDB.csproj": {
+                "projectPath": "C:\\Users\\timst\\Desktop\\Schule\\4. Klasse\\POS1\\CodeFirstDB\\CodeFirstDB\\CodeFirstDB.csproj"
+              },
+              "C:\\Users\\timst\\Downloads\\MvvmTools\\MvvmTools\\MvvmTools.csproj": {
+                "projectPath": "C:\\Users\\timst\\Downloads\\MvvmTools\\MvvmTools\\MvvmTools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\timst\\Downloads\\MvvmTools\\MvvmTools\\MvvmTools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timst\\Downloads\\MvvmTools\\MvvmTools\\MvvmTools.csproj",
+        "projectName": "MvvmTools",
+        "projectPath": "C:\\Users\\timst\\Downloads\\MvvmTools\\MvvmTools\\MvvmTools.csproj",
+        "packagesPath": "C:\\Users\\timst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timst\\Downloads\\MvvmTools\\MvvmTools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

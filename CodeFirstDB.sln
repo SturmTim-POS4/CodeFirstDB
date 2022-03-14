@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstDB", "CodeFirstDB\CodeFirstDB.csproj", "{BECA7CFB-A547-46F2-B21D-1FD7499A9B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwndLightWpf", "NorthwndLightWpf\NorthwndLightWpf.csproj", "{C6EA1C20-5542-42E3-BEA8-F72B640C5F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmTools", "..\..\..\..\..\Downloads\MvvmTools\MvvmTools\MvvmTools.csproj", "{19AC5923-EFCB-4758-A627-3F36E429E0A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECA7CFB-A547-46F2-B21D-1FD7499A9B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECA7CFB-A547-46F2-B21D-1FD7499A9B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECA7CFB-A547-46F2-B21D-1FD7499A9B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECA7CFB-A547-46F2-B21D-1FD7499A9B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6EA1C20-5542-42E3-BEA8-F72B640C5F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EA1C20-5542-42E3-BEA8-F72B640C5F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EA1C20-5542-42E3-BEA8-F72B640C5F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EA1C20-5542-42E3-BEA8-F72B640C5F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AC5923-EFCB-4758-A627-3F36E429E0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AC5923-EFCB-4758-A627-3F36E429E0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AC5923-EFCB-4758-A627-3F36E429E0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AC5923-EFCB-4758-A627-3F36E429E0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
